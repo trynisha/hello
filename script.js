@@ -15,7 +15,7 @@
 // // console.log(hello.clientX)//x axis ko value dinxa 
 // })
 
-// we are now finding the value of the mouse inside the box only, whole screen ma depend nagari ani for that;.
+// we are now finding the value of the mouse inside the box only, whole screen ma depend nagari ani for that we do the following ;.
 
 var rect = document.querySelector("#box");
 rect.addEventListener ("mousemove", function(hello){
